@@ -1,10 +1,47 @@
-- 👋 Hi, I’m @shahzaib adnan khan
-- 👀 As a Computer Engineering (CE) student and enthusiast, I have a deep interest in both hardware projects and web development. Over the course of my journey, I have designed and developed various websites and have also worked on hardware projects, combining both aspects of engineering to create innovative solutions. This unique combination of skills has allowed me to develop a strong understanding of both the theoretical and practical aspects of engineering. I'm passionate about creating websites that are functional, user-friendly, and visually appealing, and I enjoy exploring new technologies to push the boundaries of what's possible.
-Feel free to check out my projects, and let me know if you have any questions or feedback!
-- 💞️ I’m looking to collaborate on some projects 
-- 📫 How to reach me ... my whatsapp number(+923362531858)
+👋 Hi, I’m Shahzaib Adnan Khan
+👨‍💻 As a passionate Computer Engineering (CE) student, I am deeply interested in both hardware engineering and web development. My journey has led me to create innovative solutions that blend both fields. I’ve worked on projects that range from RC cars and line-following robots to developing functional and user-friendly websites.
 
-<!---
-shahzaibak7/shahzaibak7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here are some of my notable projects:
+
+Hardware Projects:
+
+
+RC Car:🚗💨 
+A remote-controlled vehicle, incorporating wireless communication.
+
+
+Smart Dustbin:🗑️🤖 
+An automated waste management solution.
+Sensor-based lid operation: The lid opens automatically when it detects the presence of hands or objects. ✋
+
+
+Line Following Robot:🤖➡️
+A robot capable of autonomously following a line path using sensors.
+
+
+
+System Resource Monitor (C - GUI)📊💻
+The System Resource Monitor is a real-time application developed in C, designed to track and display key system resources. This project uses the GTK+ library to create a graphical user interface (GUI) that shows various metrics, such as:
+
+
+Calendar GUI (Java) 📅🖥️
+The Calendar GUI is a graphical user interface application created using Java, designed to manage and display calendar events. It allows users to navigate through months and years while viewing daily events. Key features include:
+
+
+Website Projects:🌐💻
+
+
+Food Ordering System:🌐💻
+A dynamic web app that allows users to browse and order food online.
+
+Hostel Management System:🌐💻
+A web-based platform to manage student accommodations and bookings.
+
+Rental System:🌐💻
+A rental management system built with Python for inventory tracking and user reservations.
+
+I am constantly exploring new technologies and enhancing my skills, with the goal of pushing the boundaries of what’s possible in both hardware and software development.
+
+💡 I’m looking to collaborate on exciting projects that involve web development and hardware engineering.
+📞 You can reach me via WhatsApp at (+923362531858). Feel free to check out my projects and connect with me!
+
